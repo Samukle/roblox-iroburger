@@ -1,6 +1,6 @@
-<div align="center" width="800">
-    <img alt="iroburger" src="iroburger.svg" />
-    <h1>iroburger</h1>
+<div align="center" width="500">
+    <img alt="iroburger" src="iroburger.svg" width="100" /><br/>
+    <img alt="iroburger" src="title.svg" width="100" />
 </div>
 
 Simple highlight layering.
